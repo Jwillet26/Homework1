@@ -1,0 +1,19 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "Homework 1 for web server programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jwillet26/Homework1.git"
+  },
+  "author": "John Willet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jwillet26/Homework1/issues"
+  },
+  "homepage": "https://github.com/Jwillet26/Homework1#readme"
+}
